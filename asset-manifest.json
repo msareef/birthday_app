@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/msareef/birthday_app/static/css/main.af20601e.chunk.css",
-    "main.js": "/msareef/birthday_app/static/js/main.887cf371.chunk.js",
-    "main.js.map": "/msareef/birthday_app/static/js/main.887cf371.chunk.js.map",
-    "runtime-main.js": "/msareef/birthday_app/static/js/runtime-main.93437350.js",
-    "runtime-main.js.map": "/msareef/birthday_app/static/js/runtime-main.93437350.js.map",
-    "static/css/2.65d0fb34.chunk.css": "/msareef/birthday_app/static/css/2.65d0fb34.chunk.css",
-    "static/js/2.38a9376d.chunk.js": "/msareef/birthday_app/static/js/2.38a9376d.chunk.js",
-    "static/js/2.38a9376d.chunk.js.map": "/msareef/birthday_app/static/js/2.38a9376d.chunk.js.map",
-    "index.html": "/msareef/birthday_app/index.html",
-    "precache-manifest.b73f4e0dd7d25f48be657497eb5f8a49.js": "/msareef/birthday_app/precache-manifest.b73f4e0dd7d25f48be657497eb5f8a49.js",
-    "service-worker.js": "/msareef/birthday_app/service-worker.js",
-    "static/css/2.65d0fb34.chunk.css.map": "/msareef/birthday_app/static/css/2.65d0fb34.chunk.css.map",
-    "static/css/main.af20601e.chunk.css.map": "/msareef/birthday_app/static/css/main.af20601e.chunk.css.map",
-    "static/js/2.38a9376d.chunk.js.LICENSE.txt": "/msareef/birthday_app/static/js/2.38a9376d.chunk.js.LICENSE.txt"
+    "main.css": "/birthday_app/static/css/main.af20601e.chunk.css",
+    "main.js": "/birthday_app/static/js/main.dd4b2534.chunk.js",
+    "main.js.map": "/birthday_app/static/js/main.dd4b2534.chunk.js.map",
+    "runtime-main.js": "/birthday_app/static/js/runtime-main.8086bbfd.js",
+    "runtime-main.js.map": "/birthday_app/static/js/runtime-main.8086bbfd.js.map",
+    "static/css/2.65d0fb34.chunk.css": "/birthday_app/static/css/2.65d0fb34.chunk.css",
+    "static/js/2.136255a8.chunk.js": "/birthday_app/static/js/2.136255a8.chunk.js",
+    "static/js/2.136255a8.chunk.js.map": "/birthday_app/static/js/2.136255a8.chunk.js.map",
+    "index.html": "/birthday_app/index.html",
+    "precache-manifest.e0630db58c4f4dc575f96babe9eea74f.js": "/birthday_app/precache-manifest.e0630db58c4f4dc575f96babe9eea74f.js",
+    "service-worker.js": "/birthday_app/service-worker.js",
+    "static/css/2.65d0fb34.chunk.css.map": "/birthday_app/static/css/2.65d0fb34.chunk.css.map",
+    "static/css/main.af20601e.chunk.css.map": "/birthday_app/static/css/main.af20601e.chunk.css.map",
+    "static/js/2.136255a8.chunk.js.LICENSE.txt": "/birthday_app/static/js/2.136255a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93437350.js",
+    "static/js/runtime-main.8086bbfd.js",
     "static/css/2.65d0fb34.chunk.css",
-    "static/js/2.38a9376d.chunk.js",
+    "static/js/2.136255a8.chunk.js",
     "static/css/main.af20601e.chunk.css",
-    "static/js/main.887cf371.chunk.js"
+    "static/js/main.dd4b2534.chunk.js"
   ]
 }
